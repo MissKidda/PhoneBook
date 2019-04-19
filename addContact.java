@@ -1,6 +1,6 @@
 package phoneBook;
 
-
+//see ContactMethods for new methods using ArrayLists.
 
 public class addContact {
 	private static Person [] people;
